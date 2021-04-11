@@ -1,4 +1,4 @@
-- 👋 Salut! moi c'est Emma, développeuse web junior Full-Stack.
+- 👋 Salut! moi c'est Emma, **développeuse web junior Full-Stack**.
 
      _Hi! I'm Emma, full-stack junior web developer_
 - 👀 Je suis passionnée par tout ce qui touche aux arts visuels et numériques ainsi que le cinéma de genre.
@@ -28,7 +28,7 @@
 
 - 🥇 En deuxième année d'apprentissage, les technologies abordées seront:
 
-    _ In the second year of the apprenticeship, the technologies covered will be:_
+    _In the second year of the apprenticeship, the technologies covered will be:_
 
   ![node](https://user-images.githubusercontent.com/71874833/114312640-93109500-9af3-11eb-8072-d35a6086dff5.png)
 ![react](https://user-images.githubusercontent.com/71874833/114312650-9efc5700-9af3-11eb-9469-693e238a3966.png)
