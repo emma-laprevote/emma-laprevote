@@ -35,6 +35,12 @@
 ![vue](https://user-images.githubusercontent.com/71874833/114312663-b0456380-9af3-11eb-8cae-8b322c78ce4a.png)
 ![python](https://user-images.githubusercontent.com/71874833/114312659-a885bf00-9af3-11eb-8168-47922b32d7d6.png)
 
+- 📞 **Contact**
+
+     [PORTFOLIO](https://emma-laprevote.students-laplateforme.io/)
+
+     [LINKEDIN](https://www.linkedin.com/in/emkalaprevote/)
+
 <!---
 emma-laprevote/emma-laprevote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
