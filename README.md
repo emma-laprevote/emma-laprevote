@@ -1,7 +1,7 @@
 - 👋 Salut! moi c'est Emma, développeuse web junior Full-Stack.
 
      _Hi! I'm Emma, full-stack junior web developer_
-- 👀 Je suis passionnée par tout ce touche aux arts visuels et numériques et le cinéma de genre.
+- 👀 Je suis passionnée par tout ce qui touche aux arts visuels et numériques et le cinéma de genre.
 
     _I am passionate about everything related to visual and digital arts and genre cinema._
 - 🌱 Je suis actuellement en apprentissage à l'école La Plateforme_ à Marseille.
